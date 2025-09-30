@@ -7,7 +7,7 @@
 # Use a for loop to print the Fibonacci sequence up to that many terms.
 num = input ("Enter how many terms of the Fibonacci sequence you want: ")
 if num.isdigit():
-  term = >0:
+  term = > 0:
   x, y = 0, 1
   for i in range(n):
     print(x, end=" ")
